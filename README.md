@@ -1,59 +1,76 @@
 ![Glamourous-SPA](https://i.imgur.com/pyFeFEX.png)
+# Primeiros Passos com Create React App
 
-Primeiros Passos com Create React App
-Este projeto foi iniciado com o Create React App.
+Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
 
-Scripts Disponíveis
+## Scripts Disponíveis
+
 No diretório do projeto, você pode executar:
 
-npm start
-Executa o aplicativo em modo de desenvolvimento.
-Abra http://localhost:3000 para visualizá-lo no navegador.
+### `npm start`
 
-A página será recarregada sempre que você fizer alterações.
-Você também verá erros de lint no console, se houver.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador.
 
-npm test
-Inicia o executador de testes no modo interativo de observação.
-Consulte a seção sobre execução de testes para mais informações.
+A página será recarregada automaticamente quando você fizer alterações.\
+Você também poderá ver erros de *lint* no console.
 
-npm run build
-Cria a versão de produção do aplicativo na pasta build.
-Ele agrupa corretamente o React no modo de produção e otimiza a construção para melhor desempenho.
+### `npm test`
 
-A build é minificada e os nomes dos arquivos incluem hashes.
+Inicia o executador de testes no modo interativo.\
+Veja a seção sobre [execução de testes](https://facebook.github.io/create-react-app/docs/running-tests) para mais informações.
+
+### `npm run build`
+
+Cria o aplicativo para produção na pasta `build`.\
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para o melhor desempenho.
+
+A build é minificada e os nomes dos arquivos incluem hashes.\
 Seu aplicativo está pronto para ser implantado!
 
-Consulte a seção sobre implantação para mais informações.
+Veja a seção sobre [implantação](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
 
-npm run eject
-Atenção: esta é uma operação sem volta. Após ejetar, não é possível voltar atrás!
+### `npm run eject`
 
-Se você não estiver satisfeito com a ferramenta de build e as configurações escolhidas, pode ejetar a qualquer momento.
-Esse comando removerá a dependência de build única do seu projeto.
+**Atenção: esta é uma operação irreversível. Depois de usar `eject`, não há como voltar atrás!**
 
-Em vez disso, ele copiará todos os arquivos de configuração e dependências transitivas (como webpack, Babel, ESLint, etc) diretamente para o seu projeto, dando controle total sobre eles. Todos os comandos, exceto o eject, continuarão funcionando, mas agora apontarão para os scripts copiados para que você possa personalizá-los. A partir desse ponto, você estará por sua conta.
+Se você não estiver satisfeito com a ferramenta de build e as configurações padrão, pode usar o `eject` a qualquer momento. Este comando removerá a dependência única de build do seu projeto.
 
-Você nunca é obrigado a usar o eject. O conjunto de funcionalidades oferecido é suficiente para implantações pequenas e médias, e não é necessário usar esse recurso.
-Contudo, entendemos que a ferramenta só será útil se puder ser personalizada quando você estiver pronto para isso.
+Em vez disso, ele copiará todos os arquivos de configuração e as dependências transitivas (webpack, Babel, ESLint, etc) diretamente para o seu projeto, permitindo controle total sobre eles. Todos os comandos, exceto `eject`, continuarão funcionando, mas agora apontarão para os scripts copiados, que você poderá personalizar. A partir deste ponto, você estará por sua conta.
 
-Saiba Mais
-Você pode aprender mais na documentação do Create React App.
+Você **nunca é obrigado** a usar o `eject`. O conjunto de funcionalidades padrão é adequado para pequenos e médios projetos, e não é necessário usar esse recurso.\
+No entanto, entendemos que essa ferramenta só seria útil se pudesse ser personalizada quando você estiver pronto para isso.
 
-Para aprender React, consulte a documentação do React.
+## Saiba Mais
 
-Outras seções importantes:
-Divisão de Código (Code Splitting)
+Você pode aprender mais na [documentação do Create React App](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Analisando o Tamanho do Bundle
+Para aprender React, acesse a [documentação oficial do React](https://reactjs.org/).
 
-Criando um Progressive Web App
+### Divisão de Código (Code Splitting)
 
-Configuração Avançada
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-Implantação (Deployment)
+### Análise do Tamanho do Bundle
 
-Erro: npm run build não consegue minificar
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Criando um Progressive Web App
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Configuração Avançada
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Implantação
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` falha ao minificar
+
+Esta seção foi movida para: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
