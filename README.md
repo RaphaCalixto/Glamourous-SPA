@@ -1,6 +1,59 @@
 ![Glamourous-SPA](https://i.imgur.com/pyFeFEX.png)
 
+Primeiros Passos com Create React App
+Este projeto foi iniciado com o Create React App.
 
+Scripts Disponíveis
+No diretório do projeto, você pode executar:
+
+npm start
+Executa o aplicativo em modo de desenvolvimento.
+Abra http://localhost:3000 para visualizá-lo no navegador.
+
+A página será recarregada sempre que você fizer alterações.
+Você também verá erros de lint no console, se houver.
+
+npm test
+Inicia o executador de testes no modo interativo de observação.
+Consulte a seção sobre execução de testes para mais informações.
+
+npm run build
+Cria a versão de produção do aplicativo na pasta build.
+Ele agrupa corretamente o React no modo de produção e otimiza a construção para melhor desempenho.
+
+A build é minificada e os nomes dos arquivos incluem hashes.
+Seu aplicativo está pronto para ser implantado!
+
+Consulte a seção sobre implantação para mais informações.
+
+npm run eject
+Atenção: esta é uma operação sem volta. Após ejetar, não é possível voltar atrás!
+
+Se você não estiver satisfeito com a ferramenta de build e as configurações escolhidas, pode ejetar a qualquer momento.
+Esse comando removerá a dependência de build única do seu projeto.
+
+Em vez disso, ele copiará todos os arquivos de configuração e dependências transitivas (como webpack, Babel, ESLint, etc) diretamente para o seu projeto, dando controle total sobre eles. Todos os comandos, exceto o eject, continuarão funcionando, mas agora apontarão para os scripts copiados para que você possa personalizá-los. A partir desse ponto, você estará por sua conta.
+
+Você nunca é obrigado a usar o eject. O conjunto de funcionalidades oferecido é suficiente para implantações pequenas e médias, e não é necessário usar esse recurso.
+Contudo, entendemos que a ferramenta só será útil se puder ser personalizada quando você estiver pronto para isso.
+
+Saiba Mais
+Você pode aprender mais na documentação do Create React App.
+
+Para aprender React, consulte a documentação do React.
+
+Outras seções importantes:
+Divisão de Código (Code Splitting)
+
+Analisando o Tamanho do Bundle
+
+Criando um Progressive Web App
+
+Configuração Avançada
+
+Implantação (Deployment)
+
+Erro: npm run build não consegue minificar
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
