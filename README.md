@@ -4,8 +4,6 @@
 
 **[https://glamourous-spa.vercel.app/](https://glamourous-spa.vercel.app/)**
 
-# Veja aqui: 
-
 ## Como rodar o projeto localmente
 
 1. **Pré-requisitos:**
@@ -32,3 +30,4 @@
 ---
 
 Se tiver dúvidas, abra uma issue ou entre em contato.
+
