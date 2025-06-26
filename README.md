@@ -1,8 +1,10 @@
 ![Glamourous-SPA](https://i.imgur.com/pyFeFEX.png)
 
-# Glamourous SPA
+# Projeto:
 
-# Veja aqui: https://glamourous-spa.vercel.app/
+**[https://glamourous-spa.vercel.app/](https://glamourous-spa.vercel.app/)**
+
+# Veja aqui: 
 
 ## Como rodar o projeto localmente
 
