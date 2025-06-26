@@ -29,4 +29,4 @@
 
 ---
 
-Se tiver dúvidas, abra uma issue ou entre em contato com o desenvolvedor.
+Se tiver dúvidas, abra uma issue ou entre em contato.
